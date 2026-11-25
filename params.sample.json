@@ -1,0 +1,11 @@
+{
+  "striim_username": "admin",
+  "striim_password": "<striim-password>",
+  "ojet_application_name": "admin.OJetApp",
+  "Oracle_username": "<user-name>",
+  "Oracle_tcps_url": "tcps://<>",
+
+  "striim_url": "http://localhost:9080",
+  "Oracle_password": "<oracle-password>",
+  "sqlplus_path": "/opt/oracle/instantclient_21_6/sqlplus"
+}
